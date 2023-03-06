@@ -1,1 +1,14 @@
 /* write your override styles here */
+#wall .tag-1{
+    display: none;
+}
+
+.slick-wicked{
+    display: block;
+}
+.parent{
+    display: none;
+}
+#wall{
+    display: none;
+}
